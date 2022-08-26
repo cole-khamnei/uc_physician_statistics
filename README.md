@@ -7,3 +7,7 @@
 )
 
 ![GitHub Logo](/plots/ucsf_md_phd_training_salary_differences.png)
+
+
+### Sources:
+https://transparentcalifornia.com/download/salaries/university-of-california/
