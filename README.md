@@ -10,4 +10,6 @@
 
 
 ### Sources:
+Thank you California for supporting public salary transparency.
+
 https://transparentcalifornia.com/download/salaries/university-of-california/
