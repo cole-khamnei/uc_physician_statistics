@@ -63,7 +63,7 @@ def get_providers(url: str) -> pd.DataFrame:
     if "{page_number}" in url or "{page_letter}" in url:
         provider_data = []
         numerical_index = "{page_number}" in url
-        iterator = range(1, 20) if numerical_index else "abcdefghijklmnopqrstuvwxyz"
+        iterator = range(0, 20) if numerical_index else "abcdefghijklmnopqrstuvwxyz"
         for index in iterator:
             indexed_url = url.format(page_number=index) if numerical_index else url.format(page_letter=index)
             new_provider_data = get_providers(indexed_url)

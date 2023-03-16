@@ -1,4 +1,4 @@
-# Physician Statistics from Transparent California Data
+# Physician Pay Statistics from Transparent California Data
 
 
 ![GitHub Logo](/plots/ucsf_department_salaries.png)

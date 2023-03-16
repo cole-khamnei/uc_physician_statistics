@@ -52,7 +52,11 @@ UCSF_DEPARTMENT_URLS = {
     "radiation oncology": "https://radonc.ucsf.edu/about/our-team/medical-faculty/",
     "orthopedic surgery": "https://orthosurgery.ucsf.edu/patient-care/faculty?field_speciality_target_id=All&location=All&items_per_page=All&page=0",
     "internal medicine": ["https://ucsfhealthdgim.ucsf.edu/people?combine=&page={page_number}", 
-                         "https://ucsfhealthhospitalmedicine.ucsf.edu/people?combine=&page={page_number}"]
+                         "https://ucsfhealthhospitalmedicine.ucsf.edu/people?combine=&page={page_number}"],
+    "obgyn-MFM": "https://obgyn.ucsf.edu/maternal-fetal-medicine/our-experts",
+    "pediatrics-ID": "https://pediatrics.ucsf.edu/1619816/infectious-diseases-and-global-health-faculty?combine=&page={page_number}",
+    "surgery-trauma": "https://zsfgsurgery.ucsf.edu/meet-the-team.aspx",
+    "pediatrics-EM": "https://pediatrics.ucsf.edu/1619786/emergency-medicine-faculty?combine=&page={page_number}"
 }
 
 UCLA_DEPARTMENT_URLS = {
